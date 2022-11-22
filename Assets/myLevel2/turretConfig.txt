@@ -1,0 +1,30 @@
+2
+turret1
+15
+160
+1
+10
+1.2
+40
+15
+turret2
+35
+160
+1
+10
+1.2
+30
+8
+
+
+
+amount of turret kinds
+turret name
+
+price
+rotate speed
+fire rate
+attack range
+attack range upgrade
+bullet speed
+bullet damage
